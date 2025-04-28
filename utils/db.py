@@ -20,11 +20,8 @@
 # --- utils/db.py ---
 import psycopg2
 import psycopg2.extras
+import streamlit as st
 import os
-
-# Load environment variables (if needed)
-from dotenv import load_dotenv
-load_dotenv()
 
 # Function to run a query from a file
 def run_query_from_file(filename):
@@ -36,7 +33,7 @@ def run_query_from_file(filename):
 
 # Function to run a direct query text
 def run_query_direct(query):
-    conn = psycopg2.connect(os.getenv("DB_URL"))
+    conn = psycopg2.connect(st.secrets["DB_URL"])
     cur = conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor)
     cur.execute(query)
     result = cur.fetchall()
@@ -51,3 +48,5 @@ def load_query(filename):
     with open(filepath, "r") as file:
         query = file.read()
     return query
+
+
