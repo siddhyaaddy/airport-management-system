@@ -37,8 +37,9 @@
 # except Exception as e:
 #     st.error(f"❌ Failed to execute query: {e}")
 
+# --- app.py ---
 import streamlit as st
-from utils.db import run_query, load_query
+from utils.db import run_query_from_file, run_query_direct, load_query
 from dotenv import load_dotenv
 import os
 
@@ -62,7 +63,7 @@ st.header("Select a Predefined Query")
 selected_query = st.selectbox("📄 Choose a Query", list(SQL.keys()))
 
 try:
-    df = run_query(SQL[selected_query])
+    df = run_query_from_file(SQL[selected_query])
 
     st.subheader("🧹 SQL Query Used")
     query_text = load_query(SQL[selected_query])
@@ -83,10 +84,9 @@ if st.button("🚀 Run Custom Query"):
         st.warning("⚠️ Please enter a SQL query.")
     else:
         try:
-            df_custom = run_query(custom_query)
+            df_custom = run_query_direct(custom_query)
             st.success("✅ Query executed successfully!")
             st.dataframe(df_custom)
         except Exception as e:
             st.error(f"❌ Failed to execute custom query: {e}")
-
 
