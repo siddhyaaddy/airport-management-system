@@ -1,0 +1,250 @@
+code,name,continent
+JM,Jamaica,NA
+GM,Gambia,AF
+VG,British Virgin Islands,NA
+GT,Guatemala,NA
+MX,Mexico,NA
+SC,Seychelles,AF
+JO,Jordan,AS
+AQ,Antarctica,AN
+PM,Saint Pierre and Miquelon,NA
+FO,Faroe Islands,EU
+MR,Mauritania,AF
+BD,Bangladesh,AS
+MV,Maldives,AS
+XP,Paracel Islands (disputed),AS
+JE,Jersey,EU
+HK,Hong Kong,AS
+IT,Italy,EU
+WS,Samoa,OC
+NI,Nicaragua,NA
+LC,Saint Lucia,NA
+TF,French Southern and Antarctic Lands,AF
+LY,Libya,AF
+LV,Latvia,EU
+LB,Lebanon,AS
+UZ,Uzbekistan,AS
+CA,Canada,NA
+BH,Bahrain,AS
+KI,Kiribati,OC
+NE,Niger,AF
+BZ,Belize,NA
+GY,Guyana,SA
+AO,Angola,AF
+SN,Senegal,AF
+NG,Nigeria,AF
+EC,Ecuador,SA
+VA,Vatican City,EU
+BE,Belgium,EU
+MY,Malaysia,AS
+GF,French Guiana,SA
+LA,Laos,AS
+MW,Malawi,AF
+TH,Thailand,AS
+PL,Poland,EU
+LS,Lesotho,AF
+BA,Bosnia and Herzegovina,EU
+OM,Oman,AS
+FR,France,EU
+CR,Costa Rica,NA
+BW,Botswana,AF
+PY,Paraguay,SA
+AR,Argentina,SA
+KG,Kyrgyzstan,AS
+LI,Liechtenstein,EU
+SR,Suriname,SA
+GD,Grenada,NA
+LK,Sri Lanka,AS
+NF,Norfolk Island,OC
+SD,Sudan,AF
+TL,Timor-Leste,AS
+GR,Greece,EU
+BY,Belarus,EU
+ZW,Zimbabwe,AF
+PN,Pitcairn,OC
+NC,New Caledonia,OC
+XK,Kosovo,EU
+GW,Guinea-Bissau,AF
+CK,Cook Islands,OC
+BB,Barbados,NA
+IQ,Iraq,AS
+PF,French Polynesia,OC
+SI,Slovenia,EU
+HN,Honduras,NA
+MO,Macau,AS
+BF,Burkina Faso,AF
+SH,"Saint Helena, Ascension and Tristan da Cunha",AF
+IR,Iran,AS
+CW,Curaçao,NA
+TO,Tonga,OC
+EH,Western Sahara (disputed territory),AF
+TR,Turkey,AS
+MC,Monaco,EU
+LU,Luxembourg,EU
+MK,North Macedonia,EU
+TN,Tunisia,AF
+KR,South Korea,AS
+KE,Kenya,AF
+BS,Bahamas,NA
+HM,Heard and McDonald Islands,OC
+SZ,Eswatini,AF
+AE,United Arab Emirates,AS
+KZ,Kazakhstan,AS
+TT,Trinidad and Tobago,NA
+NU,Niue,OC
+MH,Marshall Islands,OC
+TG,Togo,AF
+DE,Germany,EU
+US,United States,NA
+GA,Gabon,AF
+CU,Cuba,NA
+AT,Austria,EU
+HR,Croatia,EU
+SL,Sierra Leone,AF
+NL,Netherlands,EU
+SY,Syria,AS
+BL,Saint Barthélemy,NA
+PH,Philippines,AS
+CY,Cyprus,AS
+GG,Guernsey,EU
+TC,Turks and Caicos Islands,NA
+NR,Nauru,OC
+HU,Hungary,EU
+CZ,Czech Republic,EU
+FJ,Fiji,OC
+GS,South Georgia and the South Sandwich Islands,AN
+GI,Gibraltar,EU
+LR,Liberia,AF
+BT,Bhutan,AS
+ST,São Tomé and Principe,AF
+WF,Wallis and Futuna,OC
+ER,Eritrea,AF
+MT,Malta,EU
+ZZ,Unknown or unassigned country,AF
+DO,Dominican Republic,NA
+DK,Denmark,EU
+BO,Bolivia,SA
+AZ,Azerbaijan,AS
+RW,Rwanda,AF
+SO,Somalia,AF
+CG,Republic of the Congo,AF
+AU,Australia,OC
+NZ,New Zealand,OC
+GN,Guinea,AF
+CX,Christmas Island,AS
+MZ,Mozambique,AF
+BR,Brazil,SA
+IE,Ireland,EU
+TJ,Tajikistan,AS
+MF,Saint Martin,NA
+AG,Antigua and Barbuda,NA
+PE,Peru,SA
+AI,Anguilla,NA
+AM,Armenia,AS
+VC,Saint Vincent and the Grenadines,NA
+CM,Cameroon,AF
+BJ,Benin,AF
+ZM,Zambia,AF
+FK,Falkland Islands,SA
+TK,Tokelau,OC
+UG,Uganda,AF
+UM,United States Minor Outlying Islands,OC
+IN,India,AS
+BQ,Caribbean Netherlands,NA
+PS,Palestinian Territory,AS
+CV,Cape Verde,AF
+CO,Colombia,SA
+RS,Serbia,EU
+FI,Finland,EU
+GE,Georgia,AS
+AS,American Samoa,OC
+GB,United Kingdom,EU
+PT,Portugal,EU
+BI,Burundi,AF
+KY,Cayman Islands,NA
+EE,Estonia,EU
+YE,Yemen,AS
+SG,Singapore,AS
+MP,Northern Mariana Islands,OC
+TD,Chad,AF
+SA,Saudi Arabia,AS
+IO,British Indian Ocean Territory,AS
+VU,Vanuatu,OC
+MA,Morocco,AF
+GU,Guam,OC
+ZA,South Africa,AF
+CC,Cocos (Keeling) Islands,AS
+YT,Mayotte,AF
+CD,Democratic Republic of the Congo,AF
+RO,Romania,EU
+CF,Central African Republic,AF
+DJ,Djibouti,AF
+BN,Brunei,AS
+FM,Micronesia,OC
+BG,Bulgaria,EU
+UA,Ukraine,EU
+CI,Côte d'Ivoire,AF
+CH,Switzerland,EU
+SM,San Marino,EU
+UY,Uruguay,SA
+DZ,Algeria,AF
+AF,Afghanistan,AS
+TV,Tuvalu,OC
+NP,Nepal,AS
+MM,Myanmar,AS
+KM,Comoros,AF
+EG,Egypt,AF
+DM,Dominica,NA
+MU,Mauritius,AF
+ML,Mali,AF
+PR,Puerto Rico,NA
+KH,Cambodia,AS
+BM,Bermuda,NA
+AD,Andorra,EU
+SE,Sweden,EU
+NO,Norway,EU
+MS,Montserrat,NA
+GH,Ghana,AF
+CN,China,AS
+AL,Albania,EU
+SB,Solomon Islands,OC
+KP,North Korea,AS
+TZ,Tanzania,AF
+SX,Sint Maarten,NA
+ID,Indonesia,AS
+PW,Palau,OC
+MD,Moldova,EU
+PG,Papua New Guinea,OC
+GL,Greenland,NA
+IM,Isle of Man,EU
+GP,Guadeloupe,NA
+SV,El Salvador,NA
+PK,Pakistan,AS
+IL,Israel,AS
+MN,Mongolia,AS
+HT,Haiti,NA
+SS,South Sudan,AF
+ME,Montenegro,EU
+TM,Turkmenistan,AS
+RU,Russia,EU
+NA,Namibia,AF
+TW,Taiwan,AS
+PA,Panama,NA
+KW,Kuwait,AS
+KN,Saint Kitts and Nevis,NA
+VI,U.S. Virgin Islands,NA
+GQ,Equatorial Guinea,AF
+SK,Slovakia,EU
+MQ,Martinique,NA
+QA,Qatar,AS
+JP,Japan,AS
+ET,Ethiopia,AF
+CL,Chile,SA
+LT,Lithuania,EU
+IS,Iceland,EU
+AW,Aruba,NA
+RE,Réunion,AF
+VE,Venezuela,SA
+ES,Spain,EU
+VN,Vietnam,AS
+MG,Madagascar,AF
