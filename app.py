@@ -40,11 +40,7 @@
 # --- app.py ---
 import streamlit as st
 from utils.db import run_query_from_file, run_query_direct, load_query
-from dotenv import load_dotenv
 import os
-
-# Load environment variables
-load_dotenv()
 
 # App title
 st.title("🛫 Airports Data Explorer (Supabase)")
@@ -85,8 +81,10 @@ if st.button("🚀 Run Custom Query"):
     else:
         try:
             df_custom = run_query_direct(custom_query)
-            st.success("✅ Query executed successfully!")
-            st.dataframe(df_custom)
+            if df_custom:
+                st.success("✅ Query executed successfully!")
+                st.dataframe(df_custom)
+            else:
+                st.info("ℹ️ Query executed but returned no results.")
         except Exception as e:
             st.error(f"❌ Failed to execute custom query: {e}")
-
